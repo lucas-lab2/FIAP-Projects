@@ -11,6 +11,6 @@ public class Calculo_media {
         double media = (nota1+nota2)/2;
 
         System.out.println("A média é: " + media);
-}
-   
+        scanner.close();
+    }
 }

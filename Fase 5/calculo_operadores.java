@@ -24,5 +24,6 @@ public class Calculo_operadores{
         System.out.println("A divisão dos números é: " + divisao);
         
         
+        scanner.close();
     }
 }
