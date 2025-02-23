@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calculo_media {
+public class Calculo_media {
     public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite o valor da primeira nota: ");
