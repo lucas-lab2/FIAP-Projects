@@ -30,6 +30,10 @@ public class Main{
         System.out.println(a <= b);  // Isso retorna verdadeiro, já que 'a' é menor ou igual a 'b'
         System.out.println(a == b);  // Isso retorna falso, já que 'a' não é igual a 'b'
         System.out.println(a != b);  // Isso retorna verdadeiro, já que 'a' é diferente de 'b'
+        //&& = and
+        //|| = or
+        //! = not
+        System.out.println(a > b && a < b); // Isso retorna falso, já que 'a' não é maior que 'b' e 'a' não é menor que 'b'
 
     }
 }
